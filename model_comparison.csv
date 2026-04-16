@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1-Score,Inference
+Custom CNN,83.72%,83.79%,83.72%,83.60%,25.8ms/img
+EfficientNetB0 (TL),43.72%,19.12%,43.72%,26.60%,40.8ms/img
